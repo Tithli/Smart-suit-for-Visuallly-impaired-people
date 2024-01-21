@@ -24,4 +24,5 @@ individuals, enabling them to navigate their environment with greater confidence
 - Arduino IDE
 - Blynk plaform
 # Idea of the workflow
-![MODEL_IDEA drawio](https://github.com/Tithli/Smart-suit-for-Visuallly-impaired-people/assets/122496614/7503ce37-29c6-4367-9475-248b82feed7e)
+![Workflow](https://github.com/Tithli/Smart-suit-for-Visuallly-impaired-people/assets/122496614/a80ea934-d4f7-4d6a-bf79-1194e743184c)
+
