@@ -30,9 +30,11 @@ individuals, enabling them to navigate their environment with greater confidence
 # Instructions
 - Build the internal circuit as shown
 - Upload the codes to the Arduino
+- Adjust the parameters as per thr requirement
 - Add a battery for power source to Arduino
 # Final Prottype
 ![Model_finished png](https://github.com/Tithli/Smart-suit-for-Visuallly-impaired-people/assets/122496614/b87d25e0-6942-4160-a690-a7c511b021eb)
+![Suit_4](https://github.com/Tithli/Smart-suit-for-Visuallly-impaired-people/assets/122496614/76deb045-f966-449b-81d5-8c04e068ce84)
 
 
 
