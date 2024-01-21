@@ -15,3 +15,13 @@ injuries caused by obstacles or hazards that the wearer may not be able to see.
 Overall, an IoT enabled smart suit with distance sensors, a mobile vibrator, and a WiFi
 module has the potential to significantly improve the quality of life for visually impaired
 individuals, enabling them to navigate their environment with greater confidence and independence.
+
+# Hardwares ans Software Required
+- Arduino UNO
+- NODE MCU (ESP8266)
+- HCSR04 Ultrasonic Sensors
+- Mobile Vibrators
+- Arduino IDE
+- Blynk plaform
+# Idea of the workflow
+![MODEL_IDEA drawio](https://github.com/Tithli/Smart-suit-for-Visuallly-impaired-people/assets/122496614/7503ce37-29c6-4367-9475-248b82feed7e)
