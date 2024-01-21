@@ -27,5 +27,12 @@ individuals, enabling them to navigate their environment with greater confidence
 ![Workflow](https://github.com/Tithli/Smart-suit-for-Visuallly-impaired-people/assets/122496614/a80ea934-d4f7-4d6a-bf79-1194e743184c)
 # Internal Circuit Design
 ![internal circuit](https://github.com/Tithli/Smart-suit-for-Visuallly-impaired-people/assets/122496614/80a767b6-af05-4d4a-b88a-7b6f0724664a)
+# Instructions
+- Build the internal circuit as shown
+- Upload the codes to the Arduino
+- Add a battery for power source to Arduino
+# Final Prottype
+![Model_finished png](https://github.com/Tithli/Smart-suit-for-Visuallly-impaired-people/assets/122496614/b87d25e0-6942-4160-a690-a7c511b021eb)
+
 
 
